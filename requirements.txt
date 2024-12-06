@@ -1,0 +1,8 @@
+streamlit
+requests
+google-generativeai
+pyjwt
+certifi
+pytz
+geopy
+
